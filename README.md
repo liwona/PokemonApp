@@ -1,3 +1,6 @@
+Udacity's course Example
+
+
 # Pokemon
 
 This app displays a list of Pokemons and their respective characteristics taken from JSON data. Used in a Udacity course in the Android Basics Nanodegree by Google.
